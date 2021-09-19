@@ -1,0 +1,70 @@
+.container {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.new {
+    border-top: 2px dashed black;
+}
+
+.header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: 7px;
+}
+
+hr {
+    border-top: 2px solid;
+}
+
+.i1 {
+    float: right;
+    margin-left: 10px;
+}
+
+.s1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.s2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.i5 {
+    float: right;
+    margin-left: 10px;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.i6 {
+    float: right;
+    margin-left: 10px;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
